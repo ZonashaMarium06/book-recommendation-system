@@ -1,0 +1,5 @@
+book_list.pkl
+similarity.pkl
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
